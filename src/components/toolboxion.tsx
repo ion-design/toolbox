@@ -1,6 +1,5 @@
 // Generated with Ion on 1/18/2024, 3:28:37 PM
 // Figma Link: https://www.figma.com/file/TicTaQihCRBVF3loa5xdSO?node-id=3007:14746
-"use client";
 import BankingPage from "@/components/BankingPage";
 import CreditPage from "@/components/CreditPage";
 import { Tab, Tabs, TabsList } from "@/components/ion/Tabs";
